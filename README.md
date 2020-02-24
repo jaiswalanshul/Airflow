@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-#Airflow
-#Airflow Labs
-=======
 # Airflow
 This repository contains the exercises and solutions for the Data Pipelines course
 
